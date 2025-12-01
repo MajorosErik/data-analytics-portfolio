@@ -4,13 +4,13 @@ This repo holds my projects. They exist to show my work quality and how I think 
 
 ## Projects in this portfolio
 
-### 1. Ecommerce Data Cleaning (Python)
+### Ecommerce Data Cleaning (Python)
 - Takes raw messy ecommerce events.
 - Cleans and standardizes the data so it is usable for analysis.
 - Fixes missing values, broken timestamps, and inconsistent product information.
 - Produces clean, analysis-ready CSV files.
 
-### 2. Pricing and Promotion Analysis (SQL)
+### Pricing and Promotion Analysis (SQL)
 - Loads and prepares a full ecommerce database.
 - Builds tables that show real pricing behavior, discount impact, and promo effectiveness.
 - Helps answer business questions like:

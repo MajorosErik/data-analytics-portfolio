@@ -5,7 +5,7 @@ This repo holds my projects. They exist to show my work quality and how I think 
 ## Projects in this portfolio
 
 ### Ecommerce Data Cleaning (Python)
-- Takes raw messy ecommerce events.
+- Takes multi-million row count messy ecommerce events.
 - Cleans and standardizes the data so it is usable for analysis.
 - Fixes missing values, broken timestamps, and inconsistent product information.
 - Produces clean, analysis-ready CSV files.

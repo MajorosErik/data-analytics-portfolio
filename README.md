@@ -18,4 +18,10 @@ This repo holds my projects. They exist to show my work quality and how I think 
   - Which products actually drive revenue
   - How customer orders change with free shipping or price cuts
 
+### Customer Value and Churn (Python)
+- Takes the ecommerce transactions we cleaned at line and order level.
+- Rolls them up into one row per customer with lifetime revenue, order counts, and recency features.
+- Defines a clear churn rule and calculates a simple, transparent CLTV metric with Low, Medium, High value segments.
+- Exports a 'ltv_results' table that is ready for dashboards, retention analysis, and later CLV modeling work.
+
 More projects will be added here.
